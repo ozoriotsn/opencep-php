@@ -14,8 +14,3 @@ parsers:
       loop: yes
       method: no
       macro: no
-
-comment:
-  diff:
-    layout: 'header, diff'
-    behavior: default
